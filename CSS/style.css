@@ -404,3 +404,8 @@ section.counter_section > div {
     align-items: center;
 }
 
+section.counter_section > div i {
+    font-size: 42px;
+    margin-right: 5px;
+}
+
