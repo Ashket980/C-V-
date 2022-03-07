@@ -360,3 +360,7 @@ section.skills .skills_wrapper .skill-box h4{
     margin-bottom: 1rem;
 
 }
+
+section.skills .skills_wrapper .skill-box{
+    margin-bottom: 4rem;
+}
