@@ -158,3 +158,10 @@ section.profile .right ul.contact{
     list-style-type: none;
     margin-bottom: 1.6rem;
 }
+
+section.profile .right ul.contact li{
+    color: var(--ternary);
+    margin-bottom: .7rem;
+    font-size: 14px;
+}
+
