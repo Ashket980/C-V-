@@ -70,3 +70,6 @@ nav .inner .logo{
     font-weight: 500;
 }
 
+nav .inner .logo i {
+    color: var(--info);
+}
