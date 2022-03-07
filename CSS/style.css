@@ -176,3 +176,6 @@ section.profile .right ul.socials {
     list-style-type: none;
 }
 
+section.profile .right ul.socials li{
+    margin-right: 0.8rem;
+}
