@@ -1173,6 +1173,7 @@ Primary style
       -webkit-transform: translateX(0);
     }
   }
+
   @-moz-keyframes push-in {
     0% {
       opacity: 0;
@@ -1187,6 +1188,7 @@ Primary style
       -moz-transform: translateX(0);
     }
   }
+
   @keyframes push-in {
     0% {
       opacity: 0;
@@ -1213,6 +1215,7 @@ Primary style
       transform: translateX(0);
     }
   }
+
   @-webkit-keyframes push-out {
     0% {
       opacity: 1;
@@ -1241,6 +1244,7 @@ Primary style
       -moz-transform: translateX(100%);
     }
   }
+
   @keyframes push-out {
     0% {
       opacity: 1;
