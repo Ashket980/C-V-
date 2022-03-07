@@ -393,3 +393,8 @@ section.skills .skills_wrapper .skill-box .progress_wrap .progress_bar .tooltip 
     text-transform: uppercase;
 }
 
+section.counter_section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background: var(--dark-gray);
+}
