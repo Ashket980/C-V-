@@ -169,3 +169,10 @@ section.profile .right ul.contact li i {
     font-size: 18px;
     margin-right: 0.3rem;
 }
+
+section.profile .right ul.socials {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
