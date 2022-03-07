@@ -133,3 +133,8 @@ section.profile .left img {
     object-fit: cover;
 }
 
+section.profile .left .avatar_block {
+    position: relative;
+    margin-right: 2rem;
+}
+
