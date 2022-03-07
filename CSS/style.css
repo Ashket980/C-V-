@@ -190,4 +190,12 @@ section.profile .right ul.socials li a {
     text-align: center;
 }
 
+section.profile .right ul.socials li:nth-child(1) a {
+    background: var(--secondary);
+}
+
+section.profile .right ul.socials li:nth-child(2) a {
+    background: var(--twitter);
+}
+
 
