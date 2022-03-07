@@ -398,3 +398,9 @@ section.counter_section {
     grid-template-columns: repeat(3, 1fr);
     background: var(--dark-gray);
 }
+
+section.counter_section > div {
+    display: flex;
+    align-items: center;
+}
+
