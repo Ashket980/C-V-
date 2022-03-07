@@ -219,3 +219,13 @@ section {
 main{
     background: var(--primary);
 }
+
+.section_heading:after{
+    content: '';
+    height: 3px;
+    width: 80px;
+    position: absolute;
+    top: 28px;
+    left: 0;
+    border: 1px dotted var(--danger);
+}
