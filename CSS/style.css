@@ -328,3 +328,9 @@ section.skills .content .left p{
 section.skills .content .left p.center {
     color: var(--fade);
 }
+
+section.skills .content .left .item {
+    margin-bottom: 2.6rem;
+    margin-left: 15px;
+    position: relative;
+}
