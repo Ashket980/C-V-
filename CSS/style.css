@@ -318,3 +318,9 @@ section.skills .content .left .heading h5 {
     margin-top: 0.5rem;
     color: var(--mild);
 }
+
+section.skills .content .left p{
+    font-size: 14px;
+    color: var(--ternary);
+    line-height: 1.7;
+}
