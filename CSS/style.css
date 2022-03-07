@@ -262,3 +262,11 @@ section.about .content .left button {
     outline: none;
     cursor: pointer;
 }
+
+section.about .content .right p {
+    line-height: 1.6;
+    font-size: 14px;
+    color: var(--ternary);
+    letter-spacing: 0.1px;
+    margin-bottom: 1rem;
+}
