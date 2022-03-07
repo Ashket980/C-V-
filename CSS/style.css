@@ -303,3 +303,7 @@ section.skills .content .left {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+section.skills .content .left .heading {
+    margin-bottom: 2rem; 
+}
