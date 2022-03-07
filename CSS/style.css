@@ -210,3 +210,12 @@ section.profile .right ul.socials li:nth-child(3) a {
     text-shadow: 0 0 1px rgba(40, 54, 95, 0.1);
     position: relative;
 }
+
+section {
+    padding: 3rem;
+
+}
+
+main{
+    background: var(--primary);
+}
