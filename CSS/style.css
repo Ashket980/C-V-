@@ -293,3 +293,8 @@ section.about .content .right p span:nth-child(1):after {
 
 }
 
+section.skills .content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
