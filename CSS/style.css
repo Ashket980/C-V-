@@ -437,3 +437,10 @@ section.work .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+section.work .wrapper .portfolio .tabs ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
