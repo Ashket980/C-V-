@@ -23,3 +23,12 @@
     --dark-gray : #171f33;
     --yellow : #f3c74d;
 }
+
+/* Reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+
+}
