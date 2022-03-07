@@ -409,3 +409,15 @@ section.counter_section > div i {
     margin-right: 5px;
 }
 
+section.counter_section > div:nth-child(1) i {
+    color: var(--yellow);
+}
+
+section.counter_section > div:nth-child(2) i {
+    color: var(--success);
+}
+
+section.counter_section > div:nth-child(3) i {
+    color: var(--dribble);
+}
+
