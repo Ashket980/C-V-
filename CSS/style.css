@@ -202,3 +202,11 @@ section.profile .right ul.socials li:nth-child(3) a {
     background: var(--dribble);
 }
 
+.section_heading {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--pure);
+    margin-bottom: 3rem;
+    text-shadow: 0 0 1px rgba(40, 54, 95, 0.1);
+    position: relative;
+}
