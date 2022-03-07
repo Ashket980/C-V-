@@ -334,3 +334,8 @@ section.skills .content .left .item {
     margin-left: 15px;
     position: relative;
 }
+
+section.skills .content .left .timeline_wrapper {
+    border-left: 2px dotted var(--dark-blue);
+
+}
