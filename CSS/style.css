@@ -312,3 +312,9 @@ section.skills .content .left .heading i {
     color: var(--fade);
     font-size: 52px;
 }
+
+section.skills .content .left .heading h5 {
+    font-size: 16px;
+    margin-top: 0.5rem;
+    color: var(--mild);
+}
