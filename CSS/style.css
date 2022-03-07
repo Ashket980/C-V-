@@ -251,3 +251,14 @@ section.about .content p {
     letter-spacing: 0.1px;
     margin-bottom: 1rem;
 }
+
+section.about .content .left button {
+    background: rgba(77, 121, 246, 0.1);
+    color: var(--info);
+    padding: 4px 8px;
+    font-size: 12px;
+    border: none;
+    line-height: 24px;
+    outline: none;
+    cursor: pointer;
+}
