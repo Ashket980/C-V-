@@ -339,3 +339,15 @@ section.skills .content .left .timeline_wrapper {
     border-left: 2px dotted var(--dark-blue);
 
 }
+
+section.skills .content .left .item:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 5px;
+    width: 10px;
+    height: 10px;
+    border: 2px solid var(--info);
+    border-radius: 50%;
+    margin-left: -21px;
+}
