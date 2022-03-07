@@ -451,3 +451,8 @@ section.work .wrapper .portfolio .tabs ul li a {
     font-size: 14px;
     letter-spacing: 2px;
 }
+
+section.work .wrapper .portfolio .tabs ul li a.active {
+    border-color: var(--info);
+    color: var(--info);
+}
