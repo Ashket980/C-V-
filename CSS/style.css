@@ -307,3 +307,8 @@ section.skills .content .left {
 section.skills .content .left .heading {
     margin-bottom: 2rem; 
 }
+
+section.skills .content .left .heading i {
+    color: var(--fade);
+    font-size: 52px;
+}
