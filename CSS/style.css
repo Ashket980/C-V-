@@ -427,3 +427,13 @@ section.counter_section > div h3 {
     color: var(--fade);
     margin-bottom: 8px;
 }
+
+section.counter_section > div h5 {
+    font-size: 14px;
+    color: var(--fade);
+}
+
+section.work .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
