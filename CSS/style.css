@@ -364,3 +364,12 @@ section.skills .skills_wrapper .skill-box h4{
 section.skills .skills_wrapper .skill-box{
     margin-bottom: 4rem;
 }
+
+section.skills .skills_wrapper .skill-box .progress_wrap {
+    background: #20294a;
+    height: 6px;
+    width: 100%;
+    border: 2px solid #1a253f;
+    box-shadow: 0px 0px 1px 0.25px #4d79f6;
+    border-radius: 10px;
+}
