@@ -62,3 +62,11 @@ nav .inner {
     justify-content: space-between;
 }
 
+nav .inner .logo{
+    text-transform: uppercase;
+    color: var(--pure);
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
