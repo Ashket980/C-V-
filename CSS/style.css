@@ -456,3 +456,11 @@ section.work .wrapper .portfolio .tabs ul li a.active {
     border-color: var(--info);
     color: var(--info);
 }
+
+section.work .wrapper .portfolio .portfolio_wrapper {
+    margin-top: 4rem;
+    /* display: grid;
+    grid-template-columns:  repeat(3, 1fr); */
+    display: flex;
+}
+
