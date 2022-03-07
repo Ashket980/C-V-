@@ -351,3 +351,12 @@ section.skills .content .left .item:after {
     border-radius: 50%;
     margin-left: -21px;
 }
+
+section.skills .skills_wrapper .skill-box h4{
+    color: var(--ternary);
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 1rem;
+
+}
