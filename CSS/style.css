@@ -382,3 +382,14 @@ section.skills .skills_wrapper .skill-box .progress_wrap .progress_bar {
     position: relative;
     transition:all 1s ease-in-out;
 }
+
+section.skills .skills_wrapper .skill-box .progress_wrap .progress_bar .tooltip {
+    position: absolute;
+    right:-15px;
+    top:-30px;
+    margin-bottom: 10px;
+    color: var(--ternary);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
