@@ -165,3 +165,7 @@ section.profile .right ul.contact li{
     font-size: 14px;
 }
 
+section.profile .right ul.contact li i {
+    font-size: 18px;
+    margin-right: 0.3rem;
+}
