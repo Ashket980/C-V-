@@ -55,3 +55,10 @@ nav {
     background: var(--primary);
     padding: 1.6rem 0 ;
 }
+
+nav .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
