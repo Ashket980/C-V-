@@ -421,3 +421,9 @@ section.counter_section > div:nth-child(3) i {
     color: var(--dribble);
 }
 
+section.counter_section > div h3 {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--fade);
+    margin-bottom: 8px;
+}
