@@ -104,3 +104,15 @@ section.profile .right {
     flex: 1;
 }
 
+section.profile .left h2 {
+    color: var(--fade);
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+section.profile .left p{
+    color: var(--mild);
+    font-size: 14px;
+
+}
