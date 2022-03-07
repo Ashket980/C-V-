@@ -243,3 +243,11 @@ section.about .content h2 {
     font-weight: 700;
     margin-bottom: 1.6rem;
 }
+
+section.about .content p {
+    color: var(--ternary);
+    font-size: 14px;
+    line-height: 1.6;
+    letter-spacing: 0.1px;
+    margin-bottom: 1rem;
+}
