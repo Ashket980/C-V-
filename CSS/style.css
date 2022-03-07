@@ -154,3 +154,7 @@ section.profile .left .avatar_block span{
     cursor: pointer;
 }
 
+section.profile .right ul.contact{
+    list-style-type: none;
+    margin-bottom: 1.6rem;
+}
