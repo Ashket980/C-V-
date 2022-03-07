@@ -280,3 +280,16 @@ section.about .content .right p span:nth-child(1) {
     position: relative;
 }
 
+section.about .content .right p span:nth-child(2) {
+    padding-left: 150px;
+    display: block;
+}
+
+section.about .content .right p span:nth-child(1):after {
+    content: ":";
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+
