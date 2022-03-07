@@ -125,3 +125,11 @@ section.profile .left p  b {
     padding-bottom: 1rem;
     font-weight: 400;
 }
+
+section.profile .left img {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
