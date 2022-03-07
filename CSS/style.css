@@ -444,3 +444,10 @@ section.work .wrapper .portfolio .tabs ul {
     justify-content: space-evenly;
 }
 
+section.work .wrapper .portfolio .tabs ul li a {
+    color: var(--fade);
+    border-bottom: 1px solid transparent;
+    padding: 10px 15px;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
