@@ -270,3 +270,13 @@ section.about .content .right p {
     letter-spacing: 0.1px;
     margin-bottom: 1rem;
 }
+
+section.about .content .right p span:nth-child(1) {
+    width: 140px;
+    float: left;
+    font-weight: 500;
+    padding-right: 10px;
+    display: block;
+    position: relative;
+}
+
