@@ -73,3 +73,13 @@ nav .inner .logo{
 nav .inner .logo i {
     color: var(--info);
 }
+
+nav .inner button{
+    background: var(--secondary);
+    border: none;
+    padding: 0.6rem 1rem;
+    color:  var(--pure);
+    font-size: 14px;
+    border-radius: 4px;
+
+}
