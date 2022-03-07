@@ -229,3 +229,9 @@ main{
     left: 0;
     border: 1px dotted var(--danger);
 }
+
+section.about .content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16rem;
+}
