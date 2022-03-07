@@ -117,3 +117,6 @@ section.profile .left p{
 
 }
 
+section.profile .left .cd-headline.loading-bar .cd-words-wrapper::after{
+    background: linear-gradient(to right, var(--secondary), var(--success));
+}
