@@ -373,3 +373,12 @@ section.skills .skills_wrapper .skill-box .progress_wrap {
     box-shadow: 0px 0px 1px 0.25px #4d79f6;
     border-radius: 10px;
 }
+
+section.skills .skills_wrapper .skill-box .progress_wrap .progress_bar {
+    display: block;
+    height: 100%;
+    background: var(--info);
+    width: 0;
+    position: relative;
+    transition:all 1s ease-in-out;
+}
