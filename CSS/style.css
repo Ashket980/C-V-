@@ -298,3 +298,8 @@ section.skills .content {
     grid-template-columns: 1fr 1fr;
     align-items: center;
 }
+
+section.skills .content .left {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
