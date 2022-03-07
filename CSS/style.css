@@ -33,4 +33,9 @@
 
 }
 
-
+body{
+    font-family: 'IBM Plex Sans' , sans-serif;
+    background: var(--dark);
+    -webkit-font-smoothing: antialiased;
+    height: 5000px;
+}
