@@ -179,3 +179,13 @@ section.profile .right ul.socials {
 section.profile .right ul.socials li{
     margin-right: 0.8rem;
 }
+
+section.profile .right ul.socials li a {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: var(--pure);
+    line-height: 36px;
+    text-align: center;
+}
