@@ -324,3 +324,7 @@ section.skills .content .left p{
     color: var(--ternary);
     line-height: 1.7;
 }
+
+section.skills .content .left p.center {
+    color: var(--fade);
+}
