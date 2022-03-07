@@ -198,4 +198,7 @@ section.profile .right ul.socials li:nth-child(2) a {
     background: var(--twitter);
 }
 
+section.profile .right ul.socials li:nth-child(3) a {
+    background: var(--dribble);
+}
 
