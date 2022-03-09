@@ -202,6 +202,7 @@ section.profile .right ul.socials li:nth-child(3) a {
     background: var(--dribble);
 }
 
+
 .section_heading {
     font-size: 16px;
     font-weight: 500;
@@ -455,6 +456,7 @@ section.work .wrapper .portfolio .tabs ul li a {
 section.work .wrapper .portfolio .tabs ul li a.active {
     border-color: var(--info);
     color: var(--info);
+    transition: all .3sec;
 }
 
 section.work .wrapper .portfolio .portfolio_wrapper {
