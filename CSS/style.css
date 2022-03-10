@@ -202,6 +202,10 @@ section.profile .right ul.socials li:nth-child(3) a {
     background: var(--dribble);
 }
 
+section.profile .right ul.socials li:nth-child(4) a {
+    background: var(--primary);
+}
+
 
 .section_heading {
     font-size: 16px;
